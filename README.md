@@ -4,5 +4,5 @@ This repository contains all the work which I have done during my internship at 
 
 All the work is in 2 separate branches
 
-- "notebook-files" contains all the IPYNB notebook files
-- "python-files" contains all the Python scripts
+- "notebook-files" branch contains all the IPYNB notebook files
+- "python-files" branch contains all the Python scripts
